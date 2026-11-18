@@ -1,6 +1,30 @@
 {
-  "updated": "2026-11-18T14:28:01.300007Z",
+  "updated": "2026-11-18T22:14:17.627624Z",
   "news": [
+    {
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+      "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a52/live/a0e1e280-e36b-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+      "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0a9/live/16401180-e337-11f1-9479-d17d3e98c29d.jpg"
+    },
+    {
+      "title": "UK government asks for Russell Brand's YouTube account to be removed",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "This comes after Brand's wife shared a message from him in which he claimed his innocence.",
+      "link": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c05a/live/ff349a00-e38c-11f1-bc86-33d7d6275eba.jpg"
+    },
     {
       "title": "Typical energy bill forecast to go up by \u00a3443 a year from January as inflation rate rises again",
       "sub": "News",
@@ -10,92 +34,68 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a59/live/128bd8c0-e35b-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-      "title": "Trump shakes hands with Putin and Xi ahead of landmark talks in China",
+      "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
-      "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg"
+      "desc": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way.",
+      "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f6a/live/8100d500-e345-11f1-99aa-0f40b013ad11.jpg"
     },
     {
-      "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+      "title": "Council wins legal fight against flags on lamp-posts",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "Thursday's meeting between the leaders of US, China and Russia will give Vladimir Putin a big stage - but it does not bring him closer to winning the war in Ukr",
-      "link": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/331b/live/2dc2ba90-e33e-11f1-9479-d17d3e98c29d.jpg"
+      "desc": "In her decision, Judge Emma Kelly says there was a \"compelling need\" to grant the interim injunction.",
+      "link": "https://www.bbc.co.uk/news/articles/ckq5vg81805qo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05a0/live/e737dbc0-e381-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-      "title": "Minister criticises media for 'amplifying' Russell Brand's prison message",
+      "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "Lucy Powell says outlets shouldn't have played a clip of a message read by the jailed rapist's wife.",
-      "link": "https://www.bbc.co.uk/news/articles/cq702k1w8xd3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3906/live/4ed62600-e342-11f1-99aa-0f40b013ad11.jpg"
+      "desc": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcc1/live/0bb55690-e36d-11f1-99a1-253766e7ad8b.jpg"
     },
     {
-      "title": "Banned player says whole Australia team knew about sandpaper cheating plot",
+      "title": "Prince Harry says he would rejoin army as he warns of Russia threat",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cumm",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb1d/live/c5d2fbf0-e330-11f1-9c56-6ffaf0e1e706.jpg"
+      "desc": "The Duke of Sussex thought people should be ready to serve again for their country if needed.",
+      "link": "https://www.bbc.co.uk/news/articles/cm0qjw3edzkko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73ac/live/9a53b3f0-e37d-11f1-b879-03485a55c082.jpg"
     },
     {
-      "title": "What's gone wrong at Britain's worst bathing site?",
+      "title": "Police investigate death of boy, 3, after nursery incident",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "The BBC looks at why in a dry summer with few sewage spills, one bathing site failed so many water quality tests.",
-      "link": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ad3/live/f181e450-e1c3-11f1-8a52-0b287ff76f43.jpg"
+      "desc": "The boy died in hospital three days after an incident at Cosy Toes Nursery in Middleton, police say.",
+      "link": "https://www.bbc.co.uk/news/articles/cm8x0q1p2q8jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0797/live/c7d45720-e365-11f1-9f51-4bfc31543510.jpg"
     },
     {
-      "title": "Joanna Page says male actor made 'awful' and 'inappropriate' comments to her on set",
+      "title": "Gamers react as New Zealand first to see Grand Theft Auto 6",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "Page spoke of the comments during Tuesday's episode of I'm a Celebrity... Get Me Out Of Here!",
-      "link": "https://www.bbc.co.uk/news/articles/cqj3kelenm0do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca06/live/582be290-e33c-11f1-99a1-253766e7ad8b.jpg"
+      "desc": "The new game has now been launched in New Zealand with countries around the world set to be able to download it from midnight local time.",
+      "link": "https://www.bbc.co.uk/news/videos/cmg4652xzexvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f87/live/5acdf750-e381-11f1-a094-5fdc692f3e33.jpg"
     },
     {
-      "title": "Watch: Emma Barnett pays tribute to 'decent journalism' in final Today episode",
+      "title": "William and Kate meet PM Modi as they wrap up India tour",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "Radio presenter Emma Barnett has paid tribute to \"decent journalism\" in her final moments hosting the Today programme.",
-      "link": "https://www.bbc.co.uk/news/videos/c6wy0j1xeypqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca33/live/deb790e0-e335-11f1-9479-d17d3e98c29d.jpg"
+      "desc": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
+      "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe9/live/814a0670-e35a-11f1-a8cd-2ff5ed84046e.jpg"
     },
     {
-      "title": "Home secretary plans to tackle 'corrosive' perception of two-tier policing",
+      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "Shabana Mahmood announces stronger guidance on police impartiality in a speech to police chiefs.",
-      "link": "https://www.bbc.co.uk/news/articles/c3vg24wpg040o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4035/live/d90bfb90-e2c2-11f1-a9da-01a195e70ea0.jpg"
-    },
-    {
-      "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492e/live/f37939a0-e346-11f1-99aa-0f40b013ad11.jpg"
-    },
-    {
-      "title": "Glastonbury 2027 headliners announced after year off for the festival",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "The festival will also host Cher in the Sunday \"legends\" slot, the unofficial fourth headline set.",
-      "link": "https://www.bbc.co.uk/news/articles/cw8r750jdv73o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b1f/live/d70274e0-e34f-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
-      "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg"
+      "desc": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg"
     }
   ],
   "trending": [
@@ -104,14 +104,14 @@
       "sub": "2026 \u00b7 Movie",
       "kicker": "Trending",
       "desc": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront th",
-      "image": "https://image.tmdb.org/t/p/w500/zG7hzAyqa9KIjM0Yse0bxty4Cq8.jpg"
+      "image": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
     },
     {
       "title": "Avengers: Doomsday",
       "sub": "2026 \u00b7 Movie",
       "kicker": "Trending",
       "desc": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-      "image": "https://image.tmdb.org/t/p/w500/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg"
+      "image": "https://image.tmdb.org/t/p/w500/zHTxblqPcqRpA93ex2Hj0RdpVBs.jpg"
     },
     {
       "title": "The Hunger Games: Sunrise on the Reaping",
@@ -121,18 +121,25 @@
       "image": "https://image.tmdb.org/t/p/w500/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg"
     },
     {
-      "title": "Other Mommy",
-      "sub": "2026 \u00b7 Movie",
-      "kicker": "Trending",
-      "desc": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark",
-      "image": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg"
-    },
-    {
       "title": "The Beast",
       "sub": "2026 \u00b7 Movie",
       "kicker": "Trending",
       "desc": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified offensive",
       "image": "https://image.tmdb.org/t/p/w500/ocg5JfJP19fodcv5uQUApkmZMdI.jpg"
+    },
+    {
+      "title": "Guarding Stars",
+      "sub": "2026 \u00b7 Movie",
+      "kicker": "Trending",
+      "desc": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more c",
+      "image": "https://image.tmdb.org/t/p/w500/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg"
+    },
+    {
+      "title": "Other Mommy",
+      "sub": "2026 \u00b7 Movie",
+      "kicker": "Trending",
+      "desc": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark",
+      "image": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg"
     },
     {
       "title": "Resident Evil",
@@ -142,25 +149,18 @@
       "image": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg"
     },
     {
-      "title": "Ebenezer",
-      "sub": "2026 \u00b7 Movie",
-      "kicker": "Trending",
-      "desc": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Ye",
-      "image": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg"
-    },
-    {
-      "title": "Godzilla Minus Zero",
-      "sub": "2026 \u00b7 Movie",
-      "kicker": "Trending",
-      "desc": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recove",
-      "image": "https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg"
-    },
-    {
       "title": "Spider-Man: Brand New Day",
       "sub": "2026 \u00b7 Movie",
       "kicker": "Trending",
       "desc": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Pe",
       "image": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
+    },
+    {
+      "title": "Madden",
+      "sub": "2026 \u00b7 Movie",
+      "kicker": "Trending",
+      "desc": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis\u2014from a Super Bowl-winning partnership with the Raiders, to becoming",
+      "image": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg"
     },
     {
       "title": "Heart of the Beast",
