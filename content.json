@@ -1,13 +1,21 @@
 {
-  "updated": "2026-11-21T15:52:29.106134Z",
+  "updated": "2026-11-21T21:24:43.963768Z",
   "news": [
     {
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
       "sub": "News",
       "kicker": "Top news",
       "desc": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
       "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3f4/live/23242820-e5a6-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "title": "Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky met the UK defence secretary.",
+      "link": "https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d960/live/d9b714f0-e5bd-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
@@ -26,20 +34,20 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/854c/live/ec249880-e5a2-11f1-a094-5fdc692f3e33.jpg"
     },
     {
-      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-      "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d218/live/12a1fc40-e531-11f1-a67d-39d55c7178b0.jpg"
-    },
-    {
       "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
       "sub": "News",
       "kicker": "Top news",
       "desc": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
       "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg"
+    },
+    {
+      "title": "Spitting Image co-creator Peter Fluck dies aged 85",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "The 85-year-old he died in the early hours of Saturday at home in Cornwall, following a recent illness.",
+      "link": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5613/live/accb12d0-e5e4-11f1-9ab8-8737221634d6.jpg"
     },
     {
       "title": "Who will be Robert Pattinson's 'Bond girl' - and does the role need to change?",
@@ -66,14 +74,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4bc/live/7ab356d0-e4f5-11f1-a094-5fdc692f3e33.jpg"
     },
     {
-      "title": "How Phoebe Bridgers banning phones at concerts sparked a wave of fan artwork",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "The American singer has brought in a no-phone policy for the shows, inspiring fans to explore their artistic talent.",
-      "link": "https://www.bbc.co.uk/news/articles/cq7821d0pv49o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d17c/live/c4671de0-e507-11f1-b40b-5f46e8cf687c.jpg"
-    },
-    {
       "title": "'I was exhausted': Two days in the shoes of a tradwife",
       "sub": "News",
       "kicker": "Top news",
@@ -90,12 +90,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9af/live/9684ebd0-e4f5-11f1-a8e4-b1e12a49db15.jpg"
     },
     {
-      "title": "Scouts say they face \u00a31m tourist tax cost for overnight trips",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "The increased cost after the proposed Visitors Levy is imposed could price some young people out of joining Scout camps and other trips, the group said.",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd1e9yvlzjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a35/live/b16af070-a12a-11f1-8c37-3f30331ac537.jpg"
+      "desc": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cee/live/4e2fa7a0-e5c5-11f1-a738-4787e1a18cce.jpg"
     }
   ],
   "trending": [
@@ -118,7 +118,7 @@
       "sub": "2026 \u00b7 Movie",
       "kicker": "Trending",
       "desc": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-      "image": "https://image.tmdb.org/t/p/w500/zHTxblqPcqRpA93ex2Hj0RdpVBs.jpg"
+      "image": "https://image.tmdb.org/t/p/w500/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg"
     },
     {
       "title": "The Beast",
@@ -128,11 +128,11 @@
       "image": "https://image.tmdb.org/t/p/w500/ocg5JfJP19fodcv5uQUApkmZMdI.jpg"
     },
     {
-      "title": "Steps",
+      "title": "Madden",
       "sub": "2026 \u00b7 Movie",
       "kicker": "Trending",
-      "desc": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up",
-      "image": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg"
+      "desc": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis\u2014from a Super Bowl-winning partnership with the Raiders, to becoming",
+      "image": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg"
     },
     {
       "title": "Guarding Stars",
@@ -142,25 +142,11 @@
       "image": "https://image.tmdb.org/t/p/w500/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg"
     },
     {
-      "title": "Spider-Man: Brand New Day",
+      "title": "Steps",
       "sub": "2026 \u00b7 Movie",
       "kicker": "Trending",
-      "desc": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Pe",
-      "image": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
-    },
-    {
-      "title": "Madden",
-      "sub": "2026 \u00b7 Movie",
-      "kicker": "Trending",
-      "desc": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis\u2014from a Super Bowl-winning partnership with the Raiders, to becoming",
-      "image": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg"
-    },
-    {
-      "title": "Godzilla Minus Zero",
-      "sub": "2026 \u00b7 Movie",
-      "kicker": "Trending",
-      "desc": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recove",
-      "image": "https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg"
+      "desc": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up",
+      "image": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg"
     },
     {
       "title": "Resident Evil",
@@ -168,6 +154,20 @@
       "kicker": "Trending",
       "desc": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
       "image": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg"
+    },
+    {
+      "title": "Spider-Man: Brand New Day",
+      "sub": "2026 \u00b7 Movie",
+      "kicker": "Trending",
+      "desc": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Pe",
+      "image": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
+    },
+    {
+      "title": "Other Mommy",
+      "sub": "2026 \u00b7 Movie",
+      "kicker": "Trending",
+      "desc": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark",
+      "image": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg"
     }
   ],
   "photos": [
