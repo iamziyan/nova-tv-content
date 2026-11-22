@@ -1,21 +1,53 @@
 {
-  "updated": "2026-11-22T08:38:44.349696Z",
+  "updated": "2026-11-22T16:51:07.234427Z",
   "news": [
-    {
-      "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
-      "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg"
-    },
     {
       "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "\"Just accept Brexit and move on,\" the former prime minister told BBC's Laura Kuenssberg.",
+      "desc": "\"Just accept Brexit and move on,\" the former prime minister tells BBC's Laura Kuenssberg.",
       "link": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fb1/live/99436a80-e5f0-11f1-b1d8-fd34c88a50a0.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90be/live/2130a000-e66b-11f1-afe6-8bda8be22a92.jpg"
+    },
+    {
+      "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+      "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "Libya's eastern government says it is working with Russia to investigate the incident.",
+      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a8/live/15e18c00-e693-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "title": "RAF's next fighter jet could be last crewed combat plane, air chief says",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "The head of the RAF said AI-enabled and uncrewed aircrafts are expected to start flying in UK airspace next year.",
+      "link": "https://www.bbc.co.uk/news/articles/c68x08nzpk9no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b368/live/5ea5bc60-e678-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "title": "BBC apologises after noise disruption during Strictly",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "Strictly Come Dancing judge Motsi Mabuse was giving feedback to Delta Goodrem when she paused after the sound started playing.",
+      "link": "https://www.bbc.co.uk/news/videos/ck782j066elvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65ac/live/63709570-e679-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "title": "'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "Theresa May, David Cameron and Tony Blair have weighed in on Burnham's plans on moving closer to the EU, but the prime minister's message itself is not very pre",
+      "link": "https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02d1/live/bf55afa0-e4ea-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "title": "How a teen gamer and his mother helped rescue a missing girl",
@@ -24,30 +56,6 @@
       "desc": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
       "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e06/live/d8778490-e503-11f1-9e2f-7fb5281f0b3c.jpg"
-    },
-    {
-      "title": "Verstappen wins extraordinary Las Vegas Grand Prix as Ferraris collide",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "Red Bull's Max Verstappen wins an extraordinary Las Vegas Grand Prix that featured 34 lead changes and another collision between the Ferraris.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c5/live/4cf95270-e631-11f1-9a7b-83df752dd747.jpg"
-    },
-    {
-      "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "\"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the documentary.",
-      "link": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c010/live/8fc02730-e5a7-11f1-8df2-d7de7bfd91b9.jpg"
-    },
-    {
-      "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "Lancashire police says a mobile phone has been seized and it is assessing whether any criminal offences may have taken place.",
-      "link": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73a1/live/9ea5a0c0-e621-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "title": "Employers are being asked to give interview feedback - here's what applicants want",
@@ -74,28 +82,20 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2a9/live/aa5abbb0-e50b-11f1-b40b-5f46e8cf687c.jpg"
     },
     {
-      "title": "From pit-stops to go-to destinations: The transformation of service stations",
+      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "Once a quick pause on a long trip, service stations are becoming destinations in their own right.",
-      "link": "https://www.bbc.co.uk/news/articles/ckqx5rylp9elo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ac1/live/e2886580-e4d6-11f1-ae38-71bf515761f1.jpg"
+      "desc": "The couple have been together for four years and were engaged in 2025.",
+      "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/623a/live/96a59510-e667-11f1-8ebd-1d2173202734.jpg"
     },
     {
-      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cee/live/4e2fa7a0-e5c5-11f1-a738-4787e1a18cce.jpg"
-    },
-    {
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg"
+      "desc": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg"
     }
   ],
   "trending": [
@@ -111,7 +111,7 @@
       "sub": "2026 \u00b7 Movie",
       "kicker": "Trending",
       "desc": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Game",
-      "image": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg"
+      "image": "https://image.tmdb.org/t/p/w500/nzIXSQNgYZwFOMrmv0d0I3ulvkM.jpg"
     },
     {
       "title": "Avengers: Doomsday",
@@ -121,13 +121,6 @@
       "image": "https://image.tmdb.org/t/p/w500/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg"
     },
     {
-      "title": "The Beast",
-      "sub": "2026 \u00b7 Movie",
-      "kicker": "Trending",
-      "desc": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified offensive",
-      "image": "https://image.tmdb.org/t/p/w500/ocg5JfJP19fodcv5uQUApkmZMdI.jpg"
-    },
-    {
       "title": "Guarding Stars",
       "sub": "2026 \u00b7 Movie",
       "kicker": "Trending",
@@ -135,18 +128,11 @@
       "image": "https://image.tmdb.org/t/p/w500/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg"
     },
     {
-      "title": "Madden",
+      "title": "The Beast",
       "sub": "2026 \u00b7 Movie",
       "kicker": "Trending",
-      "desc": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis\u2014from a Super Bowl-winning partnership with the Raiders, to becoming",
-      "image": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg"
-    },
-    {
-      "title": "Battle Through the Heavens Movie\uff1aDuel of the Two Dou Emperors",
-      "sub": "2026 \u00b7 Movie",
-      "kicker": "Trending",
-      "desc": "",
-      "image": "https://image.tmdb.org/t/p/w500/kQA44KCjcI284f3uxCRAdiS9blt.jpg"
+      "desc": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified offensive",
+      "image": "https://image.tmdb.org/t/p/w500/ocg5JfJP19fodcv5uQUApkmZMdI.jpg"
     },
     {
       "title": "Steps",
@@ -156,11 +142,11 @@
       "image": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg"
     },
     {
-      "title": "Godzilla Minus Zero",
+      "title": "Madden",
       "sub": "2026 \u00b7 Movie",
       "kicker": "Trending",
-      "desc": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recove",
-      "image": "https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg"
+      "desc": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis\u2014from a Super Bowl-winning partnership with the Raiders, to becoming",
+      "image": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg"
     },
     {
       "title": "Spider-Man: Brand New Day",
@@ -168,6 +154,20 @@
       "kicker": "Trending",
       "desc": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Pe",
       "image": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
+    },
+    {
+      "title": "Godzilla Minus Zero",
+      "sub": "2026 \u00b7 Movie",
+      "kicker": "Trending",
+      "desc": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recove",
+      "image": "https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg"
+    },
+    {
+      "title": "Perfect Liars",
+      "sub": "2026 \u00b7 Movie",
+      "kicker": "Trending",
+      "desc": "Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brothe",
+      "image": "https://image.tmdb.org/t/p/w500/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg"
     }
   ],
   "photos": [
