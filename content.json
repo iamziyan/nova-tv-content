@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-22T22:17:14.181562Z",
+  "updated": "2026-11-23T02:56:52.212136Z",
   "news": [
     {
       "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+      "desc": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
       "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg"
     },
@@ -18,12 +18,28 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c66/live/ad00e440-e6b2-11f1-9607-338132fd22a0.jpg"
     },
     {
-      "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
+      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
-      "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg"
+      "desc": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3431/live/0e8b4920-e6be-11f1-a023-d502158f79f8.jpg"
+    },
+    {
+      "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+      "link": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg"
+    },
+    {
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce0/live/b754c730-e6bd-11f1-a023-d502158f79f8.jpg"
     },
     {
       "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
@@ -34,44 +50,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg"
     },
     {
-      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "title": "Will it snow this week? Mild Atlantic air collides with cold air across the UK",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-      "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f57f/live/25f17b40-e69e-11f1-9d9b-5dad4444a651.jpg"
-    },
-    {
-      "title": "RAF's next fighter jet could be last crewed combat plane, air chief says",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "The head of the RAF said AI-enabled and uncrewed aircrafts are expected to start flying in UK airspace next year.",
-      "link": "https://www.bbc.co.uk/news/articles/c68x08nzpk9no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b368/live/5ea5bc60-e678-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "title": "Russell Brand's wife says she'll honour prison rules after message row",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband.",
-      "link": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ba9/live/b922d470-e691-11f1-936e-1fd1d31671db.jpg"
-    },
-    {
-      "title": "BBC apologises after noise disruption during Strictly",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "Strictly Come Dancing judge Motsi Mabuse was giving feedback to Delta Goodrem when she paused after the sound started playing.",
-      "link": "https://www.bbc.co.uk/news/videos/ck782j066elvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65ac/live/63709570-e679-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aab/live/8ca719f0-e6b0-11f1-b45e-bf1e220bd648.jpg"
+      "desc": "A battle ground is becoming established across the UK, milder air across the southwest and cold arctic air elsewhere",
+      "link": "https://www.bbc.co.uk/weather/articles/c5dj1l21w9pmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14a9/live/a37aed60-e65f-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "title": "Miley Cyrus marries Maxx Morando in California ceremony",
@@ -82,36 +66,52 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/623a/live/96a59510-e667-11f1-8ebd-1d2173202734.jpg"
     },
     {
-      "title": "Verstappen wins extraordinary Las Vegas Grand Prix as Ferraris collide",
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "Red Bull's Max Verstappen wins an extraordinary Las Vegas Grand Prix that featured 34 lead changes and another collision between the Ferraris.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c5/live/4cf95270-e631-11f1-9a7b-83df752dd747.jpg"
+      "desc": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+      "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aab/live/8ca719f0-e6b0-11f1-b45e-bf1e220bd648.jpg"
     },
     {
-      "title": "'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?",
+      "title": "Russell Brand's wife says she'll honour prison rules after message row",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "Theresa May, David Cameron and Tony Blair have weighed in on Burnham's plans on moving closer to the EU, but the prime minister's message itself is not very pre",
-      "link": "https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02d1/live/bf55afa0-e4ea-11f1-99a1-253766e7ad8b.jpg"
+      "desc": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband.",
+      "link": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ba9/live/b922d470-e691-11f1-936e-1fd1d31671db.jpg"
+    },
+    {
+      "title": "Manchester Co-op Live evacuated after suspected tear gas incident",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "Police say no serious injuries were reported after a substance was let off in the crowd during a performance by US rapper Don Toliver.",
+      "link": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c80/live/cd7af940-e6df-11f1-97d5-11510eca5697.jpg"
+    },
+    {
+      "title": "Energy bills will soar - here's how you can ease the pain",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+      "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg"
     }
   ],
   "trending": [
-    {
-      "title": "The Odyssey",
-      "sub": "2026 \u00b7 Movie",
-      "kicker": "Trending",
-      "desc": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront th",
-      "image": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
-    },
     {
       "title": "The Hunger Games: Sunrise on the Reaping",
       "sub": "2026 \u00b7 Movie",
       "kicker": "Trending",
       "desc": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Game",
       "image": "https://image.tmdb.org/t/p/w500/nzIXSQNgYZwFOMrmv0d0I3ulvkM.jpg"
+    },
+    {
+      "title": "The Odyssey",
+      "sub": "2026 \u00b7 Movie",
+      "kicker": "Trending",
+      "desc": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront th",
+      "image": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
     },
     {
       "title": "Avengers: Doomsday",
@@ -121,11 +121,11 @@
       "image": "https://image.tmdb.org/t/p/w500/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg"
     },
     {
-      "title": "The Beast",
+      "title": "Steps",
       "sub": "2026 \u00b7 Movie",
       "kicker": "Trending",
-      "desc": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified offensive",
-      "image": "https://image.tmdb.org/t/p/w500/ocg5JfJP19fodcv5uQUApkmZMdI.jpg"
+      "desc": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up",
+      "image": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg"
     },
     {
       "title": "Guarding Stars",
@@ -135,25 +135,25 @@
       "image": "https://image.tmdb.org/t/p/w500/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg"
     },
     {
-      "title": "Madden",
-      "sub": "2026 \u00b7 Movie",
-      "kicker": "Trending",
-      "desc": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis\u2014from a Super Bowl-winning partnership with the Raiders, to becoming",
-      "image": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg"
-    },
-    {
-      "title": "Steps",
-      "sub": "2026 \u00b7 Movie",
-      "kicker": "Trending",
-      "desc": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up",
-      "image": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg"
-    },
-    {
       "title": "Spider-Man: Brand New Day",
       "sub": "2026 \u00b7 Movie",
       "kicker": "Trending",
       "desc": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Pe",
       "image": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
+    },
+    {
+      "title": "The Beast",
+      "sub": "2026 \u00b7 Movie",
+      "kicker": "Trending",
+      "desc": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified offensive",
+      "image": "https://image.tmdb.org/t/p/w500/ocg5JfJP19fodcv5uQUApkmZMdI.jpg"
+    },
+    {
+      "title": "Madden",
+      "sub": "2026 \u00b7 Movie",
+      "kicker": "Trending",
+      "desc": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis\u2014from a Super Bowl-winning partnership with the Raiders, to becoming",
+      "image": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg"
     },
     {
       "title": "Godzilla Minus Zero",
@@ -163,11 +163,11 @@
       "image": "https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg"
     },
     {
-      "title": "Resident Evil",
+      "title": "Perfect Liars",
       "sub": "2026 \u00b7 Movie",
       "kicker": "Trending",
-      "desc": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-      "image": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg"
+      "desc": "Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brothe",
+      "image": "https://image.tmdb.org/t/p/w500/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg"
     }
   ],
   "photos": [
