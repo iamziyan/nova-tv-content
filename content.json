@@ -1,6 +1,70 @@
 {
-  "updated": "2026-11-25T21:56:34.796929Z",
+  "updated": "2026-11-26T03:57:22.830111Z",
   "news": [
+    {
+      "title": "UK government set to publish new treaties agreed with EU",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
+      "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0991/live/fc4bdc70-e933-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "title": "US approves SpaceX plan to send a million data satellites to space",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+      "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd78/live/4cbffd10-e91d-11f1-9108-c5b270b0703d.jpg"
+    },
+    {
+      "title": "Stalking law simplified to become one offence",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "The new stalking offence will be introduced after a review found existing legislation was confusing.",
+      "link": "https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40a5/live/9c3c8510-e847-11f1-aa88-031e8213533d.jpg"
+    },
+    {
+      "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "Changing seasons are affecting wildlife and leading some farmers to grow different crops.",
+      "link": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0a2/live/0f7bb370-e749-11f1-88dc-f746e0cde621.jpg"
+    },
+    {
+      "title": "BBC launches partnership with Met Office for weather coverage",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "The corporation says the deal will deliver more regional, digital and 10-day forecasts to audiences.",
+      "link": "https://www.bbc.co.uk/news/articles/ckjrel5vdj9zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b663/live/9be181d0-e90d-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "title": "Duran Duran guitarist Andy Taylor dies aged 65",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "The musician, who co-wrote some of the band's biggest hits, had been treated for prostate cancer.",
+      "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf5e/live/c090fb90-e918-11f1-8383-53f283141713.jpg"
+    },
+    {
+      "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "The crash was 'like something out of a disaster movie,' the BBC's science editor Rebecca Morelle says.",
+      "link": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dd3/live/34155b50-e901-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+      "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d4b/live/5e57daf0-e91f-11f1-9108-c5b270b0703d.jpg"
+    },
     {
       "title": "Poundland collapses putting 11,000 jobs at risk",
       "sub": "News",
@@ -8,22 +72,6 @@
       "desc": "The discount chain has fallen into administration after its owners failed to find a buyer.",
       "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c5c/live/1c109380-e906-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "title": "Why has Poundland collapsed and what happens next?",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "The retail chain has collapsed just one year after being bought for \u00a31 by an American firm.",
-      "link": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc81/live/3c9523e0-e8f3-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "title": "US announces new tariff proposals on EU, China, and other trade partners",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91fc/live/6d9c5c50-e908-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "title": "Wife drugged and raped by husband asked police if she was to blame, mass sexual offence trial hears",
@@ -34,68 +82,20 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fc0/live/25576350-e8fd-11f1-a094-5fdc692f3e33.jpg"
     },
     {
-      "title": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
+      "title": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
-      "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49ab/live/4933ad90-e913-11f1-a094-5fdc692f3e33.jpg"
+      "desc": "The Hollywood A-listers' legal battle focused on the vineyard they bought in 2008 and where they wed six years later.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32bb/live/4d5bc080-e920-11f1-9108-c5b270b0703d.jpg"
     },
     {
-      "title": "Duran Duran guitarist Andy Taylor dies, aged 65",
+      "title": "Frustration reigns for Pochettino in chaotic start to Man Utd job",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "The musician, who co-wrote some of the band's biggest hits, had been treated for prostate cancer.",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf5e/live/c090fb90-e918-11f1-8383-53f283141713.jpg"
-    },
-    {
-      "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8562/live/1f8d5d00-e8ec-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "title": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "Ramsay will take the driving seat alongside as yet unnamed co-presenters when the show starts filming next year.",
-      "link": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c42/live/4e07c8b0-e904-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "Raheem Sterling given suspended jail sentence for dangerous driving and nitrous oxide possession",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "Raheem Sterling was sentenced to 12 months imprisonment, suspended for 18 months, on Wednesday.",
-      "link": "https://www.bbc.co.uk/news/articles/cv8e04ll9dd3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd65/live/f14720b0-e8d3-11f1-a3b9-79c60ec9ab33.jpg"
-    },
-    {
-      "title": "Energy bills to rise by 26% from January after gas prices surge",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "A household using a typical amount of energy would see its annual bill rise from \u00a31,723 to \u00a32,166 if this level was sustained for a year.",
-      "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/654f/live/9096f7c0-e8df-11f1-a3b9-79c60ec9ab33.jpg"
-    },
-    {
-      "title": "Hundreds complain about I'm A Celebrity after Mariella Frostrup called AJ Odudu 'aggressive'",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "More than 800 viewers complain to regulator Ofcom after a row between AJ Odudu and Mariella Frostrup.",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly5v11q194o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4af/live/82a22580-e8c2-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
-      "link": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9436/live/251a8890-e8d5-11f1-99b6-a35a62fa4264.jpg"
+      "desc": "What are the findings for Mauricio Pochettino after his first two matches as Manchester United manager?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aff/live/89296710-e930-11f1-99a1-253766e7ad8b.jpg"
     }
   ],
   "trending": [
@@ -128,11 +128,11 @@
       "image": "https://image.tmdb.org/t/p/w500/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg"
     },
     {
-      "title": "The Mosquito Bowl",
+      "title": "Steps",
       "sub": "2026 \u00b7 Movie",
       "kicker": "Trending",
-      "desc": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
-      "image": "https://image.tmdb.org/t/p/w500/zbT4sxoCEeFWlQG4SC5X9Q8v6PC.jpg"
+      "desc": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up",
+      "image": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg"
     },
     {
       "title": "You Can See Everything",
@@ -142,13 +142,6 @@
       "image": "https://image.tmdb.org/t/p/w500/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg"
     },
     {
-      "title": "Steps",
-      "sub": "2026 \u00b7 Movie",
-      "kicker": "Trending",
-      "desc": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up",
-      "image": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg"
-    },
-    {
       "title": "Spider-Man: Brand New Day",
       "sub": "2026 \u00b7 Movie",
       "kicker": "Trending",
@@ -156,11 +149,18 @@
       "image": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
     },
     {
-      "title": "Way of the Warrior Kid",
+      "title": "The Mosquito Bowl",
       "sub": "2026 \u00b7 Movie",
       "kicker": "Trending",
-      "desc": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to b",
-      "image": "https://image.tmdb.org/t/p/w500/atI81xXKNVah7PJFBo3aXqQKtnG.jpg"
+      "desc": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
+      "image": "https://image.tmdb.org/t/p/w500/uxYs0bNTF4XzM8LThJk2x3AJ0Iv.jpg"
+    },
+    {
+      "title": "The Social Reckoning",
+      "sub": "2026 \u00b7 Movie",
+      "kicker": "Trending",
+      "desc": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing t",
+      "image": "https://image.tmdb.org/t/p/w500/vWbEuI3LuFOGYZIxESLAmwFwtvr.jpg"
     },
     {
       "title": "Wicker",
