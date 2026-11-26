@@ -1,29 +1,37 @@
 {
-  "updated": "2026-11-26T03:57:22.830111Z",
+  "updated": "2026-11-26T13:37:09.058460Z",
   "news": [
     {
-      "title": "UK government set to publish new treaties agreed with EU",
+      "title": "UK net migration at lowest level since 1997 as asylum claims also fall",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
-      "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0991/live/fc4bdc70-e933-11f1-a094-5fdc692f3e33.jpg"
+      "desc": "Net migration figures of 77,000 in the year to the end of June mark the lowest this century outside of the Covid pandemic.",
+      "link": "https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3652/live/46d59fa0-54f2-11f1-8285-a5e1daabf896.jpg"
     },
     {
-      "title": "US approves SpaceX plan to send a million data satellites to space",
+      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
-      "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd78/live/4cbffd10-e91d-11f1-9108-c5b270b0703d.jpg"
+      "desc": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
+      "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ee/live/c6384f50-e984-11f1-99b6-a35a62fa4264.png"
     },
     {
-      "title": "Stalking law simplified to become one offence",
+      "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "The new stalking offence will be introduced after a review found existing legislation was confusing.",
-      "link": "https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40a5/live/9c3c8510-e847-11f1-aa88-031e8213533d.jpg"
+      "desc": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from Marvin Reuter's firm.",
+      "link": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db1b/live/69c522b0-e962-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "title": "UK reservists contacted as 'threat environment' rises, Streeting says",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "It comes after reports that reservists have received letters telling them to prepare to be called up for war.",
+      "link": "https://www.bbc.co.uk/news/articles/cvrlgznd9z4po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8429/live/e3809710-e98a-11f1-9d1c-4dcc8fcde666.jpg"
     },
     {
       "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
@@ -31,7 +39,7 @@
       "kicker": "Top news",
       "desc": "Changing seasons are affecting wildlife and leading some farmers to grow different crops.",
       "link": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0a2/live/0f7bb370-e749-11f1-88dc-f746e0cde621.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8736/live/0d69ad10-e99e-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "title": "BBC launches partnership with Met Office for weather coverage",
@@ -39,63 +47,55 @@
       "kicker": "Top news",
       "desc": "The corporation says the deal will deliver more regional, digital and 10-day forecasts to audiences.",
       "link": "https://www.bbc.co.uk/news/articles/ckjrel5vdj9zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b663/live/9be181d0-e90d-11f1-99a1-253766e7ad8b.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbcb/live/a9ca7d50-e963-11f1-99a1-253766e7ad8b.jpg"
     },
     {
-      "title": "Duran Duran guitarist Andy Taylor dies aged 65",
+      "title": "New UK-EU treaty has 10-year termination clause",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "The musician, who co-wrote some of the band's biggest hits, had been treated for prostate cancer.",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf5e/live/c090fb90-e918-11f1-8383-53f283141713.jpg"
+      "desc": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+      "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-      "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
+      "title": "Desperate appeals from women on death row in Iran after protests",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "The crash was 'like something out of a disaster movie,' the BBC's science editor Rebecca Morelle says.",
-      "link": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dd3/live/34155b50-e901-11f1-99a1-253766e7ad8b.jpg"
+      "desc": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says.",
+      "link": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ca2/live/a7b62ec0-e27d-11f1-bd1e-f9c53347c5a6.jpg"
     },
     {
-      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "title": "Government's antisemitism adviser opens investigation into BBC",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
-      "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d4b/live/5e57daf0-e91f-11f1-9108-c5b270b0703d.jpg"
+      "desc": "Lord Mann says he has launched the investigation after \"growing discomfort among Jewish BBC staff\".",
+      "link": "https://www.bbc.co.uk/news/articles/cw782ml8ndgyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c711/live/2c9a1590-e97f-11f1-bb43-d1b6102e3b60.jpg"
     },
     {
-      "title": "Poundland collapses putting 11,000 jobs at risk",
+      "title": "Queen's University clear Jason Arday co-authored paper over plagiarism concerns",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "The discount chain has fallen into administration after its owners failed to find a buyer.",
-      "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c5c/live/1c109380-e906-11f1-99b6-a35a62fa4264.jpg"
+      "desc": "The 41-year-old was found dead in August following weeks of media coverage over plagiarism allegations and questions about his achievements, which he denied.",
+      "link": "https://www.bbc.co.uk/news/articles/ck9d7e11lnq4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c958/live/b5fe7690-9269-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "title": "Wife drugged and raped by husband asked police if she was to blame, mass sexual offence trial hears",
+      "title": "The US pastor who wants to see women's right to vote overturned",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "The woman told a court suggestions she was 'pretending to be asleep' were 'absolute rubbish'.",
-      "link": "https://www.bbc.co.uk/news/articles/c38x0vd2yyx5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fc0/live/25576350-e8fd-11f1-a094-5fdc692f3e33.jpg"
+      "desc": "The movement to repeal women's right to vote has gained traction amongst some very conservative Christians.",
+      "link": "https://www.bbc.co.uk/news/articles/cwe89jyz4012o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce47/live/503203d0-e995-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-      "title": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
+      "title": "Has global jihadism failed, or is it simply changing shape?",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "The Hollywood A-listers' legal battle focused on the vineyard they bought in 2008 and where they wed six years later.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32bb/live/4d5bc080-e920-11f1-9108-c5b270b0703d.jpg"
-    },
-    {
-      "title": "Frustration reigns for Pochettino in chaotic start to Man Utd job",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "What are the findings for Mauricio Pochettino after his first two matches as Manchester United manager?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aff/live/89296710-e930-11f1-99a1-253766e7ad8b.jpg"
+      "desc": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae31/live/2d66b8d0-e8d9-11f1-99a1-253766e7ad8b.jpg"
     }
   ],
   "trending": [
@@ -121,13 +121,6 @@
       "image": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
     },
     {
-      "title": "Hexed",
-      "sub": "2026 \u00b7 Movie",
-      "kicker": "Trending",
-      "desc": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey o",
-      "image": "https://image.tmdb.org/t/p/w500/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg"
-    },
-    {
       "title": "Steps",
       "sub": "2026 \u00b7 Movie",
       "kicker": "Trending",
@@ -135,11 +128,11 @@
       "image": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg"
     },
     {
-      "title": "You Can See Everything",
+      "title": "Hexed",
       "sub": "2026 \u00b7 Movie",
       "kicker": "Trending",
-      "desc": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What b",
-      "image": "https://image.tmdb.org/t/p/w500/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg"
+      "desc": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey o",
+      "image": "https://image.tmdb.org/t/p/w500/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg"
     },
     {
       "title": "Spider-Man: Brand New Day",
@@ -149,13 +142,6 @@
       "image": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
     },
     {
-      "title": "The Mosquito Bowl",
-      "sub": "2026 \u00b7 Movie",
-      "kicker": "Trending",
-      "desc": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
-      "image": "https://image.tmdb.org/t/p/w500/uxYs0bNTF4XzM8LThJk2x3AJ0Iv.jpg"
-    },
-    {
       "title": "The Social Reckoning",
       "sub": "2026 \u00b7 Movie",
       "kicker": "Trending",
@@ -163,11 +149,25 @@
       "image": "https://image.tmdb.org/t/p/w500/vWbEuI3LuFOGYZIxESLAmwFwtvr.jpg"
     },
     {
-      "title": "Wicker",
+      "title": "You Can See Everything",
       "sub": "2026 \u00b7 Movie",
       "kicker": "Trending",
-      "desc": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbour",
-      "image": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg"
+      "desc": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What b",
+      "image": "https://image.tmdb.org/t/p/w500/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg"
+    },
+    {
+      "title": "The Mosquito Bowl",
+      "sub": "2026 \u00b7 Movie",
+      "kicker": "Trending",
+      "desc": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
+      "image": "https://image.tmdb.org/t/p/w500/uxYs0bNTF4XzM8LThJk2x3AJ0Iv.jpg"
+    },
+    {
+      "title": "Madden",
+      "sub": "2026 \u00b7 Movie",
+      "kicker": "Trending",
+      "desc": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis\u2014from a Super Bowl-winning partnership with the Raiders, to becoming",
+      "image": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg"
     }
   ],
   "photos": [
