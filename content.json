@@ -1,6 +1,86 @@
 {
-  "updated": "2026-11-27T14:38:35.306345Z",
+  "updated": "2026-11-27T23:10:19.334501Z",
   "news": [
+    {
+      "title": "Millions lose access to benefits and pensions services after 'cyber incident'",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "The Department for Work and Pensions says some of its services were taken offline as a precaution.",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6ef/live/2c353ff0-ea95-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "title": "Watch: What has happened to DWP online services?",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "The work and pensions secretary has said an investigation is looking into a \"serious cyber incident\" affecting his government department.",
+      "link": "https://www.bbc.co.uk/news/videos/cqm251rv0vyyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f786/live/0a044f30-ea94-11f1-99b6-a35a62fa4264.png"
+    },
+    {
+      "title": "Catherine's emotional cancer documentary strips away the stiff upper lip",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "The Princess of Wales has made a documentary, Heal, describing her cancer experience in her own words.",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daa6/live/05399b00-ea84-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "Prime Minister Pedro S\u00e1nchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "title": "'Calculating predator' who blackmailed girls into self-harm jailed for 14 and a half years",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "Beau-Jack Mensforth is jailed for preying on nine girls, the youngest aged 12, across the world.",
+      "link": "https://www.bbc.co.uk/news/articles/c3pw4ypkldpzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca25/live/3f50b590-ea60-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+      "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "title": "New satellite data shows how fast some African cities are sinking",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "Cities including Lagos and Alexandria are sinking faster than previously thought, a new study shows.",
+      "link": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3110/live/92589920-e988-11f1-9d1c-4dcc8fcde666.jpg"
+    },
+    {
+      "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg"
+    },
+    {
+      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+      "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4438/live/a0415f90-ea78-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "title": "Charity founded in Captain Tom's name bids to be struck off",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "The charity is now known as the 1189808 Foundation, having dropped the late fundraiser's name.",
+      "link": "https://www.bbc.co.uk/news/articles/c6jeqyqzy1y7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7337/live/caba0040-a77e-11ef-a968-c7efee733ac0.jpg"
+    },
     {
       "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
       "sub": "News",
@@ -10,92 +90,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-      "title": "'A lonely road': Catherine joins cancer support group in new documentary",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "The documentary features her personal thoughts on her illness and recovery, following her cancer diagnosis.",
-      "link": "https://www.bbc.co.uk/news/videos/c6879eqe01e0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d72/live/05be88a0-ea67-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "title": "'I wouldn't be here today without you': Student's praise for man who stopped Huntingdon train attacker",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "Astrid credits Stephen Crean with saving her life during the Huntingdon train attack last year.",
-      "link": "https://www.bbc.co.uk/news/articles/ck792lq4xrero?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b745/live/55191660-ea65-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "Watch: Student describes moment passenger 'threw himself' at attacker and saved her life",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "The BBC's Lucy Manning spoke to Astrid and Stephen after the verdicts, as they met for the first time since the attack.",
-      "link": "https://www.bbc.co.uk/news/videos/cqzr566llz4no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9331/live/45191cc0-ea46-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "Met Police ruined my life, says Kenyan man wrongly convicted over attack on UK couple",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cfa/live/2eeecd70-e99f-11f1-b880-15b494ba858d.jpg"
-    },
-    {
-      "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/569b/live/83ef8790-ea37-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
-      "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/627c/live/2d067240-ea4b-11f1-b220-b9f21129b546.jpg"
-    },
-    {
-      "title": "Leaders clash in final Spain election debate as housing dominates run-in",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "The struggle many face in buying a home has been the biggest issue of a bitter campaign.",
-      "link": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5a0/live/2d2b3d80-ea39-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia.",
-      "link": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6e8/live/fb20a6d0-e9cb-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "title": "Fury cleared to fight Joshua after wife retracts schizophrenia claim",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "Tyson Fury is medically cleared to fight Anthony Joshua in December after the bout was put in jeopardy by claims of a schizophrenia diagnosis.",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/c539gd2x2ye1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/016d/live/ebfae280-ea5a-11f1-89b9-f318b11567ea.jpg"
-    },
-    {
       "title": "Dec Donnelly says I'm a Celebrity tension 'became much bigger deal than it should have'",
       "sub": "News",
       "kicker": "Top news",
       "desc": "The co-hosts discussed tensions that flared between Mariella Frostrup and AJ Odudu on the show.",
       "link": "https://www.bbc.co.uk/news/articles/c65y1k8qx7q4o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90cf/live/ea63a4e0-ea53-11f1-b220-b9f21129b546.jpg"
-    },
-    {
-      "title": "'Craving connection': The young hikers swapping screens for walking groups",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "From hiking in the Peak District hills to the city parks of Leicester - we talk to several young people who've embraced walking groups and feel better for it.",
-      "link": "https://www.bbc.co.uk/news/articles/c32l50v7x2v1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baec/live/bc60a6d0-e9b1-11f1-99a1-253766e7ad8b.jpg"
     }
   ],
   "trending": [
@@ -105,6 +105,13 @@
       "kicker": "Trending",
       "desc": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
       "image": "https://image.tmdb.org/t/p/w500/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg"
+    },
+    {
+      "title": "Street Fighter",
+      "sub": "2026 \u00b7 Movie",
+      "kicker": "Trending",
+      "desc": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tourname",
+      "image": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg"
     },
     {
       "title": "The Hunger Games: Sunrise on the Reaping",
@@ -121,32 +128,11 @@
       "image": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
     },
     {
-      "title": "Street Fighter",
-      "sub": "2026 \u00b7 Movie",
-      "kicker": "Trending",
-      "desc": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tourname",
-      "image": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg"
-    },
-    {
       "title": "Hexed",
       "sub": "2026 \u00b7 Movie",
       "kicker": "Trending",
       "desc": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey o",
       "image": "https://image.tmdb.org/t/p/w500/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg"
-    },
-    {
-      "title": "Spider-Man: Brand New Day",
-      "sub": "2026 \u00b7 Movie",
-      "kicker": "Trending",
-      "desc": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Pe",
-      "image": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
-    },
-    {
-      "title": "The Mosquito Bowl",
-      "sub": "2026 \u00b7 Movie",
-      "kicker": "Trending",
-      "desc": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
-      "image": "https://image.tmdb.org/t/p/w500/uxYs0bNTF4XzM8LThJk2x3AJ0Iv.jpg"
     },
     {
       "title": "Steps",
@@ -156,6 +142,20 @@
       "image": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg"
     },
     {
+      "title": "The Mosquito Bowl",
+      "sub": "2026 \u00b7 Movie",
+      "kicker": "Trending",
+      "desc": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
+      "image": "https://image.tmdb.org/t/p/w500/uxYs0bNTF4XzM8LThJk2x3AJ0Iv.jpg"
+    },
+    {
+      "title": "Spider-Man: Brand New Day",
+      "sub": "2026 \u00b7 Movie",
+      "kicker": "Trending",
+      "desc": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Pe",
+      "image": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
+    },
+    {
       "title": "You Can See Everything",
       "sub": "2026 \u00b7 Movie",
       "kicker": "Trending",
@@ -163,11 +163,11 @@
       "image": "https://image.tmdb.org/t/p/w500/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg"
     },
     {
-      "title": "The Hunchback, Soul of Paris",
+      "title": "Dune: Part Three",
       "sub": "2026 \u00b7 Movie",
       "kicker": "Trending",
-      "desc": "Paris, 1830. As cholera threatens to ravage the city, a hunchback hunted for medical experiments is caught between political turmoil and impossible love.",
-      "image": "https://image.tmdb.org/t/p/w500/3dHSDFEyUsjwRldplaRGygC5zkJ.jpg"
+      "desc": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies r",
+      "image": "https://image.tmdb.org/t/p/w500/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg"
     }
   ],
   "photos": [
