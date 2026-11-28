@@ -1,13 +1,53 @@
 {
-  "updated": "2026-11-28T04:50:08.574904Z",
+  "updated": "2026-11-28T13:50:05.486578Z",
   "news": [
     {
-      "title": "Millions lose access to benefits and pensions services after 'cyber incident'",
+      "title": "Argentina's bid to stop Falklands oil drilling rejected",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "The Department for Work and Pensions says some of its services were taken offline as a precaution.",
-      "link": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6ef/live/2c353ff0-ea95-11f1-a094-5fdc692f3e33.jpg"
+      "desc": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
+      "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1615/live/b6e6bd30-eb1d-11f1-8743-3f686b14075c.jpg"
+    },
+    {
+      "title": "Pensions and benefits services still down after 'cyber incident'",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
+      "link": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b20/live/d7c70ab0-eb21-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f48/live/c26c94a0-eb21-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "title": "Woman, 21, dies in Staffordshire crash following police pursuit",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "The crash happened on Friday just after 23:00 GMT on Rugeley Road in Hednesford.",
+      "link": "https://www.bbc.co.uk/news/articles/ckwy9rde8gyqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba67/live/c22de780-eb2d-11f1-8c00-ff7035d56586.jpg"
+    },
+    {
+      "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
+      "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd9/live/19b5f490-eb1d-11f1-8743-3f686b14075c.jpg"
+    },
+    {
+      "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+      "sub": "News",
+      "kicker": "Top news",
+      "desc": "The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.",
+      "link": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f0d/live/51e85220-eb10-11f1-874e-81d351dd336c.jpg"
     },
     {
       "title": "Catherine's emotional cancer documentary strips away the stiff upper lip",
@@ -18,84 +58,44 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daa6/live/05399b00-ea84-11f1-99a1-253766e7ad8b.jpg"
     },
     {
-      "title": "'Calculating predator' who blackmailed girls into self-harm jailed for 14 and a half years",
+      "title": "'I don't know what I'd do without it': Is this the end for Poundland?",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "Beau-Jack Mensforth is jailed for preying on nine girls, the youngest aged 12, across the world.",
-      "link": "https://www.bbc.co.uk/news/articles/c3pw4ypkldpzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca25/live/3f50b590-ea60-11f1-a094-5fdc692f3e33.jpg"
+      "desc": "With baskets loaded full of bargains, shoppers at the much-loved chain tell the BBC the high street doesn't need more empty shops.",
+      "link": "https://www.bbc.co.uk/news/articles/c65y1l9j7j9ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f327/live/896fe430-eb18-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-      "title": "Set time aside for children to read for pleasure, schools to be told",
+      "title": "A clinic is offering to reassess ADHD and autism diagnoses - and hundreds of people are interested",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "The government says its new cirriculum hopes to reverse declining literacy rates and combat \"mindless scrolling\".",
-      "link": "https://www.bbc.co.uk/news/articles/c65y1vp4ndqjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/135c/live/334e1f80-eac9-11f1-b4f7-a59fcb94e161.jpg"
+      "desc": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
+      "link": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6add/live/9161e4a0-e9aa-11f1-859a-37130cd3a1d7.jpg"
     },
     {
-      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "title": "Carly Rae Jepsen's viral hit proves what fans knew all along",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "Prime Minister Pedro S\u00e1nchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
-      "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg"
+      "desc": "The Call Me Maybe star returns to the UK Top 40 as her single Run Away With Me gets a GTA VI boost.",
+      "link": "https://www.bbc.co.uk/news/articles/cq3dgp88p744o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f840/live/b254cec0-e9b9-11f1-8d2a-f5d2aabc11cb.jpg"
     },
     {
-      "title": "Charity founded in Captain Tom's name bids to be struck off",
+      "title": "The AI-powered race to get GTA 6 onto PC before Rockstar",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "The charity is now known as the 1189808 Foundation, having dropped the late fundraiser's name.",
-      "link": "https://www.bbc.co.uk/news/articles/c6jeqyqzy1y7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7337/live/caba0040-a77e-11ef-a968-c7efee733ac0.jpg"
+      "desc": "With an official PC version potentially still months away, fans are getting impatient.",
+      "link": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4da6/live/634898f0-ea88-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "title": "Flu cases are rising - should you get a vaccine now?",
       "sub": "News",
       "kicker": "Top news",
-      "desc": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
-      "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "title": "New satellite data shows how fast some African cities are sinking",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "Cities including Lagos and Alexandria are sinking faster than previously thought, a new study shows.",
-      "link": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3110/live/92589920-e988-11f1-9d1c-4dcc8fcde666.jpg"
-    },
-    {
-      "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg"
-    },
-    {
-      "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
-      "link": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3aaf/live/e29d41d0-ead0-11f1-b97f-cdd549897b30.jpg"
-    },
-    {
-      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
-      "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4438/live/a0415f90-ea78-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "title": "Dec Donnelly says I'm a Celebrity tension 'became much bigger deal than it should have'",
-      "sub": "News",
-      "kicker": "Top news",
-      "desc": "The co-hosts discussed tensions that flared between Mariella Frostrup and AJ Odudu on the show.",
-      "link": "https://www.bbc.co.uk/news/articles/c65y1k8qx7q4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90cf/live/ea63a4e0-ea53-11f1-b220-b9f21129b546.jpg"
+      "desc": "Amid a surge in influenza, health officials are urging people to get a vaccine - but what if you're young and healthy?",
+      "link": "https://www.bbc.co.uk/news/articles/cq8e018jyjngo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3258/live/437b0d00-eb1e-11f1-a094-5fdc692f3e33.jpg"
     }
   ],
   "trending": [
@@ -114,13 +114,6 @@
       "image": "https://image.tmdb.org/t/p/w500/5ffVOGY3x3Sn3jovzvycJeizpks.jpg"
     },
     {
-      "title": "Street Fighter",
-      "sub": "2026 \u00b7 Movie",
-      "kicker": "Trending",
-      "desc": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tourname",
-      "image": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg"
-    },
-    {
       "title": "The Odyssey",
       "sub": "2026 \u00b7 Movie",
       "kicker": "Trending",
@@ -128,11 +121,32 @@
       "image": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg"
     },
     {
+      "title": "Street Fighter",
+      "sub": "2026 \u00b7 Movie",
+      "kicker": "Trending",
+      "desc": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tourname",
+      "image": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg"
+    },
+    {
       "title": "Hexed",
       "sub": "2026 \u00b7 Movie",
       "kicker": "Trending",
       "desc": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey o",
       "image": "https://image.tmdb.org/t/p/w500/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg"
+    },
+    {
+      "title": "The Mosquito Bowl",
+      "sub": "2026 \u00b7 Movie",
+      "kicker": "Trending",
+      "desc": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
+      "image": "https://image.tmdb.org/t/p/w500/uxYs0bNTF4XzM8LThJk2x3AJ0Iv.jpg"
+    },
+    {
+      "title": "The Social Reckoning",
+      "sub": "2026 \u00b7 Movie",
+      "kicker": "Trending",
+      "desc": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing t",
+      "image": "https://image.tmdb.org/t/p/w500/vWbEuI3LuFOGYZIxESLAmwFwtvr.jpg"
     },
     {
       "title": "Spider-Man: Brand New Day",
@@ -149,25 +163,11 @@
       "image": "https://image.tmdb.org/t/p/w500/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg"
     },
     {
-      "title": "The Mosquito Bowl",
+      "title": "Way of the Warrior Kid",
       "sub": "2026 \u00b7 Movie",
       "kicker": "Trending",
-      "desc": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
-      "image": "https://image.tmdb.org/t/p/w500/uxYs0bNTF4XzM8LThJk2x3AJ0Iv.jpg"
-    },
-    {
-      "title": "Wicker",
-      "sub": "2026 \u00b7 Movie",
-      "kicker": "Trending",
-      "desc": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbour",
-      "image": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg"
-    },
-    {
-      "title": "Steps",
-      "sub": "2026 \u00b7 Movie",
-      "kicker": "Trending",
-      "desc": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up",
-      "image": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg"
+      "desc": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to b",
+      "image": "https://image.tmdb.org/t/p/w500/atI81xXKNVah7PJFBo3aXqQKtnG.jpg"
     }
   ],
   "photos": [
